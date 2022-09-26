@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarbonatedSoftDrink
 - 👀 I’m interested in ... Coding and making stuff with Java, Python, C++, HTML, or CSS
-- 🌱 I’m currently learning ... Java & Python!
+- 🌱 I’m currently learning ... React and Django!
 - 💞️ I’m looking to collaborate on ... small, fun little programs!
 - 📫 How to reach me ... contact me at gregwho@protonmail.com
 
